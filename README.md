@@ -10,10 +10,9 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I'm pursuing **Bachelor of Technology in Information Technology** from **Vishwakarma Institute of Information Technology** (Expected May 2026).
-- 💡 Currently a **GeeksforGeeks Campus Ambassador**, promoting coding culture and organizing programming events.
-- 💼 Former **Frontend Developer Intern** at **The Spark Foundation**, where I enhanced web app performance by 20%, designed RESTful APIs, and achieved 95% test coverage using Pytest.
-- 🔭 I’m working on an **AI-based Mathematical Learning Module** to assist students in understanding complex mathematical concepts.
-- ⚡ I love building solutions that blend **AI**, **Web Automation**, and **Scalable Systems**.
+- 💻 **Passionate about Full Stack Development and Machine Learning**  
+I strive to create scalable, user-centric solutions that blend innovation with technology.  
+- ⚡ I love building solutions that blend **Full-Stack Application**, **AI**, **Web Automation**, and **Scalable Systems**.
 
 ---
 
@@ -64,12 +63,6 @@
 
 ---
 
-### 🏆 Achievements:
-- **Top 1%** on GeeksforGeeks practice platform (50th/5000+).
-- Solved **400+ DSA problems** across platforms like GeeksforGeeks, LeetCode, and Coding Ninjas.
-- **Shortlisted** in **GelSolveGFG + Adobe Hackathon** from 100K+ participants.
-- **JPMorgan Software Engineering Job Simulation** Certification.
-- Completed **Intermediate Full Stack Web Development (MERN Stack)** and **Intermediate Coding in Python** on Unstop.
 
 ---
 
