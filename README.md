@@ -18,9 +18,11 @@ I strive to create scalable, user-centric solutions that blend innovation with t
 
 ### 🚀 Projects:
 
-#### 💼 **[Internshala Automation](https://github.com/AbhinavShimpi19/Intershala-Automation)**
-- Automated resume building and internship applications using **Puppeteer**, **Node.js**, and **JavaScript**.
-- Achieved a **80% reduction** in manual efforts through automation.
+#### 💼 **[AIMedLab : AI-Powered Medical Laboratory System](https://github.com/AbhinavShimpi19/AIMedLab/)**
+- Developed an AI-powered medical diagnostic platform using the MERN stack and advanced ML models for precise disease prediction.  
+- System includes an intelligent symptom-based disease detection system, automating test recommendations and appointment 
+scheduling.
+- Integrated AI-driven lab result analysis to enhance diagnostic accuracy, streamline workflows, and improve patient outcomes.
 
 #### 🧬 **[ML Powered Fake Account Detection - Twitter](https://github.com/AbhinavShimpi19/ML-Powered--Fake-Account-Detection-for-Twitter)**
 - Utilized machine learning to detect fake or spam accounts on Twitter using **XGBoost**, **scikit-learn**, and **Twitter API**.
