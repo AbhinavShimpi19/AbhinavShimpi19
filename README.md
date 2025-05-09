@@ -1,44 +1,36 @@
-<h1 align="center">Hi, I'm Abhinav Shimpi 👋</h1>
+<h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Abhinav+Shimpi+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌐;Tech+Blogger+✍️;Always+Learning+📚&center=true&width=800&height=60&color=00FEEF&vCenter=true&size=30">
+</p>
+</h1>
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-shimpi-392616258/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhinav_Shimpi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:abhinavshimpi2005@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-abhinavshimpi2005@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/AbhinavShimpi19"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-AbhinavShimpi19-lightgrey?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/abhinav-shimpi-392616258/">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhinav_Shimpi-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:abhinavshimpi2005@gmail.com">
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-abhinavshimpi2005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a href="https://github.com/AbhinavShimpi19">
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-AbhinavShimpi19-lightgrey?style=for-the-badge&logo=github&logoColor=black">
+  </a> 
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://github.com/AbhinavShimpi19"><img src="https://img.shields.io/github/followers/AbhinavShimpi19?label=Follow&style=social" alt="GitHub"></a>
 </p>
+
+
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm pursuing **Bachelor of Technology in Information Technology** from **Vishwakarma Institute of Information Technology** (Expected May 2026).
-- 💻 **Passionate about Full Stack Development and Machine Learning**  
+- 🎓 I'm pursuing **Bachelor of Technology in Information Technology** from **Vishwakarma Institute of Information Technology** 
 I strive to create scalable, user-centric solutions that blend innovation with technology.  
 - ⚡ I love building solutions that blend **Full-Stack Application**, **AI**, **Web Automation**, and **Scalable Systems**.
 
 ---
 
-### 🚀 Projects:
 
-#### 💼 **[AIMedLab : AI-Powered Medical Laboratory System](https://github.com/AbhinavShimpi19/AIMedLab/)**
-- Developed an AI-powered medical diagnostic platform using the MERN stack and advanced ML models for precise disease prediction.  
-- System includes an intelligent symptom-based disease detection system, automating test recommendations and appointment 
-scheduling.
-- Integrated AI-driven lab result analysis to enhance diagnostic accuracy, streamline workflows, and improve patient outcomes.
-
-#### 🧬 **[ML Powered Fake Account Detection - Twitter](https://github.com/AbhinavShimpi19/ML-Powered--Fake-Account-Detection-for-Twitter)**
-- Utilized machine learning to detect fake or spam accounts on Twitter using **XGBoost**, **scikit-learn**, and **Twitter API**.
-- Enhanced platform security by enabling proactive removal of malicious accounts.
-
-#### 🚀 **[HealthSync](https://github.com/AbhinavShimpi19/Hospital-Management-System)**
-- Developed and implemented a hospital management system using **React**, **MySQL**, and **PHP**.
-- Streamlined appointment scheduling and management with efficient database connectivity.
-- Created a seamless user experience for patients and staff through an intuitive interface.
-
-#### 💼 **[E-commerce Platform Development](#)**
-- Designed and developed a scalable architecture for a full-stack e-commerce platform using **Node.js**, **React**, and **MySQL**.
-- Integrated secure payment gateways and implemented robust user authentication.
-- Reduced page load time by 40% through optimized database queries and UI responsiveness.
-
----
 
 ### 💻 Skills & Technologies:
 
